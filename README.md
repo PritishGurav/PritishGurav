@@ -1,4 +1,5 @@
-# Hi, I'm Pritish Gurav 👋
+<h1 align="center"> Hi 👋, I'm Pritish Gurav</h1>h1>
+<h3 align="center">A passionate data analytics and Power BI developer from India</h3>
 
 <img align="right"alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/06376c50-f1cb-4743-b49c-d8e69004bb81)>
 
