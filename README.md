@@ -1,5 +1,8 @@
 # Hi, I'm Pritish Gurav 👋
 
+![Banner](![image](https://github.com/user-attachments/assets/04d5bc1d-20d4-4177-b597-b00843ec1892)
+)
+
 I'm a data analyst passionate about turning data into actionable insights! My expertise lies in tools like Power BI, Jupyter Notebook, and SQL.
 
 - 🔭 I’m currently working on data analytics projects in sales analysis and HR data.
