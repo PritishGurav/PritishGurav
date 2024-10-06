@@ -7,7 +7,7 @@ I'm a data analyst passionate about turning data into actionable insights! My ex
 
 - 🔭 I’m currently working on **data analytics projects** in sales analysis and HR data.
 - 🌱 I’m always learning new technologies and improving my skills in **data visualization** and **modeling**.
-- 📫 How to reach me: [LinkedIn](your-linkedin-url) | [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pritish-gurav009/) | [Email](pritishgurav3418@gmail.com)
 
 ---
 
@@ -20,27 +20,11 @@ I'm a data analyst passionate about turning data into actionable insights! My ex
 
 ---
 
-## Projects
-Here are some of my key projects:
-1. **Sales Performance Dashboard**
-   - Tools: Power BI, SQL
-   - Summary: Created a sales dashboard to track performance, product trends, and store insights.
-
-2. **Hotel Booking Cancellations Analysis**
-   - Tools: Python, Power BI
-   - Summary: Analyzed hotel booking data to identify cancellation drivers, with recommendations for policy changes.
-
-3. **HR Attendance Analysis**
-   - Tools: Python, Power BI
-   - Summary: Analyzed employee attendance data to support workforce planning and productivity enhancement.
-
----
-
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/pritish-gurav009/)
 - [Email](pritishgurav3418@gmail.com)
 
 
-(https://github.com/user-attachments/assets/06376c50-f1cb-4743-b49c-d8e69004bb81)>
+https://github.com/PritishGurav
 
 
