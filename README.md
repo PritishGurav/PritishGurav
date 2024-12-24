@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data analytics and Power BI developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/06376c50-f1cb-4743-b49c-d8e69004bb81" />
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/06376c50-f1cb-4743-b49c-d8e69004bb81" />
+<img align="right" alt="coding" width="400" src="https://www.freepik.com/free-vector/site-stats-concept-illustration_7140739.htm#fromView=keyword&page=1&position=1&uuid=03c0d635-8e0d-4ef6-a87a-6d8e63c836c7&new_detail=true" />
 
 I'm a data analyst passionate about turning data into actionable insights! My expertise lies in tools like **Power BI**, **Jupyter Notebook**, and **SQL**.
 
