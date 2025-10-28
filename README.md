@@ -1,57 +1,59 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Pritish+Gurav!;Data+Analyst+%7C+Power+BI+Developer;Transforming+Data+Into+Insights" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hi, I'm Pritish Gurav</h1>
+<h3 align="center">Data Analyst | Power BI & Tableau Developer</h3>
 
-<h3 align="center">📊 Passionate Data Analyst from India</h3>
+---
 
+### 💡 About Me
+- 🎓 Pursuing **B.Tech in Electronics & Telecommunication**  
+- 💼 **6-month internship** at *NexGen Analytix*  
+- 📊 Completed **16 data analytics projects** using Power BI, Python, and SQL  
+- 🧮 Currently training at **QSpiders**  
+- 💭 Goal: Work at **Google** as a data-driven professional  
+- 🧘 I handle pressure with music, running, and mindfulness  
+
+---
+
+### 🧠 Skills
+| Category | Tools |
+|-----------|--------|
+| **Programming** | Python (Pandas, Matplotlib), SQL |
+| **Visualization** | Power BI, Tableau, Excel |
+| **Data Tools** | Jupyter Notebook, MySQL |
+| **Web Basics** | HTML, CSS |
+| **Soft Skills** | Teamwork, Communication, Problem Solving |
+
+---
+
+### 📊 My Projects
+- Power BI Sales Dashboard  
+- HR Data Visualization  
+- Food & Beverage Analytics  
+- Python Sign-In System (MySQL Integration)
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/06376c50-f1cb-4743-b49c-d8e69004bb81" alt="coding" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PritishGurav&show_icons=true&theme=merko" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PritishGurav&theme=merko" width="49%">
 </p>
 
 ---
 
-### 💼 About Me  
-🎓 B.Tech in Electronics & Telecommunication, *Sanjay Bhokare Group of Institutes, Miraj*  
-💼 6-Month Data Analytics Internship at **NexGen Analytix**  
-📊 16 Projects — 13 using **Power BI**, 3 using **Python (Jupyter Notebook)**  
-🎯 Trained at **QSpiders**  
-💭 Dream Company: **Google**  
-🎵 Relaxing with music and running helps me stay creative!
+### 🌱 Currently Learning
+- Machine Learning Basics  
+- Data Storytelling  
+- Advanced SQL Techniques  
 
 ---
 
-### 🧠 Tools & Skills  
-
+### 📫 Connect With Me  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,tableau,excel,html,css,jupyter" />
+  <a href="https://www.linkedin.com/in/gurav-pritish-3ab57b346/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pritishgurav3418@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📈 GitHub Analytics  
+<h4 align="center">"Transforming Data Into Decisions"</h4>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PritishGurav&show_icons=true&theme=tokyonight" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PritishGurav&theme=tokyonight" width="49%">
-</p>
-
----
-
-### 🌱 Currently Exploring  
-- Advanced SQL Optimization  
-- Machine Learning Fundamentals  
-- Storytelling through Visualization  
-
----
-
-### 📬 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gurav-pritish-3ab57b346/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:pritishgurav3418@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/PritishGurav"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<h3 align="center">✨ “Turning Data into Stories that Drive Decisions.” ✨</h3>
