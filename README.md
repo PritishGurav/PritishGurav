@@ -1,59 +1,57 @@
-<h1 align="center"> Hi 👋, I'm Pritish Gurav</h1>
-<h3 align="center">A passionate Data Analyst and Power BI Developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Pritish+Gurav!;Data+Analyst+%7C+Power+BI+Developer;Transforming+Data+Into+Insights" alt="Typing SVG" />
+</h1>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/06376c50-f1cb-4743-b49c-d8e69004bb81" />
+<h3 align="center">📊 Passionate Data Analyst from India</h3>
 
-I'm a **data analyst** passionate about turning raw data into actionable insights!  
-I enjoy working with data visualization tools and analytical models to solve real-world business problems.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06376c50-f1cb-4743-b49c-d8e69004bb81" alt="coding" width="400"/>
+</p>
 
 ---
 
 ### 💼 About Me  
-- 🎓 Pursuing **B.Tech in Electronics & Telecommunication** at *Sanjay Bhokare Group of Institutes, Miraj*  
-- 💼 Currently doing a **6-month Data Analytics Internship at NexGen Analytix**, gaining hands-on experience in **Power BI, Python, SQL, and Tableau**  
-- 🧮 Also completing **Data Analytics training at QSpiders**  
-- 🔭 Completed **16 projects** — 13 in **Power BI** and 3 in **Python (Jupyter Notebook)**  
-- 💬 I can understand English well and I’m improving my speaking skills  
-- 💪 I handle pressure by listening to music, running, or practicing breathing exercises  
-- 💭 Dream Company: **Google**, for its inspiring work culture and innovation  
+🎓 B.Tech in Electronics & Telecommunication, *Sanjay Bhokare Group of Institutes, Miraj*  
+💼 6-Month Data Analytics Internship at **NexGen Analytix**  
+📊 16 Projects — 13 using **Power BI**, 3 using **Python (Jupyter Notebook)**  
+🎯 Trained at **QSpiders**  
+💭 Dream Company: **Google**  
+🎵 Relaxing with music and running helps me stay creative!
 
 ---
 
-### 📊 Projects  
-- Power BI Dashboards (Sales, HR, Food & Beverage, Finance, etc.)  
-- Python Data Analysis Projects using Pandas, Matplotlib, Seaborn, and MySQL  
-- Sign-In System Project (Python + MySQL + HTML + CSS)  
+### 🧠 Tools & Skills  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,tableau,excel,html,css,jupyter" />
+</p>
 
 ---
 
-## 🧠 Skills
+### 📈 GitHub Analytics  
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FF8500?style=for-the-badge&logo=jupyter&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PritishGurav&show_icons=true&theme=tokyonight" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PritishGurav&theme=tokyonight" width="49%">
+</p>
 
 ---
 
-### 🌱 Currently Learning  
-- Advanced Data Visualization  
-- SQL Optimization  
+### 🌱 Currently Exploring  
+- Advanced SQL Optimization  
 - Machine Learning Fundamentals  
+- Storytelling through Visualization  
 
 ---
 
-## 📫 Let's Connect
+### 📬 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurav-pritish-3ab57b346/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritishgurav3418@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PritishGurav)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gurav-pritish-3ab57b346/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pritishgurav3418@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/PritishGurav"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐ **"Turning data into stories that drive decisions."**
-
+<h3 align="center">✨ “Turning Data into Stories that Drive Decisions.” ✨</h3>
